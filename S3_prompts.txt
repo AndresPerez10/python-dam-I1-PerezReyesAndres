@@ -1,0 +1,2 @@
+hazme un programa de python que pida un nombre + año de nacimiento, que calcule la edad, clasificar por tramo ( <18, 18-65, >65), 
+manejo de error si no mete numero + comentarios
