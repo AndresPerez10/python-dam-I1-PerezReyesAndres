@@ -11,6 +11,8 @@ n3 = float(input("Introduce el tercer número: "))
 # Calcular la suma
 suma = n1 + n2 + n3
 
+resta = n1 - n2 - n3
+
 # Calcular la media (promedio)
 media = suma / 3
 
@@ -22,3 +24,4 @@ print("\nResultados:")
 print(f"Suma = {suma}")
 print(f"Media = {media}")
 print(f"Mayor = {mayor}")
+print(f"Resta = {resta}")

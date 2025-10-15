@@ -1,0 +1,15 @@
+1. Creame un programa que pida una lista de números 
+separados por comas, convertirlos a float con control 
+de errores y mostrar la suma, la media, el máximo 
+y los duplicados.
+
+2. hazme una aplicacion simple que sea un conversor
+ de temperaturas de grados a kelvin.
+
+ 3. hazme un programa que reciba una cadena y cuente las vocales 
+ que tiene, las consonantes, las mayúsculas 
+ y el número de caracteres y dame una idea de algo simple
+ que pueda añadirle.
+
+ 4. hazme un programa que reciba un número 
+ y nos diga si es primo o no
